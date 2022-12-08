@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "body-parser": "^1.17.1",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "node-json-db": "^0.7.3"
   },
   "keywords": [
